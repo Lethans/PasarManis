@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #86B817;
-    --secondary: #FE8800;
+    --primary: #ffc107;
+    --secondary: #ffc107;
     --light: #F5F5F5;
     --dark: #14141F;
 }
@@ -465,3 +465,4 @@
     padding-right: 0;
     border-right: none;
 }
+
